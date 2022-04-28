@@ -10,9 +10,9 @@ assignees: ""
 
 > Complete la siguiente información
 
-**Nombre:**: _Cuban Digital Language Text Generate_
-**Repositorio**: _(link del repositorio de Github)_
-**Reporte**: _(link al documento en PDF donde se irá completando el reporte del proyecto)_
+- **Nombre:**: _Cuban Digital Language Text Generate_
+- **Repositorio**: _[https://github.com/cuban-digital-language/generator-of-cubans-comment](https://github.com/cuban-digital-language/generator-of-cubans-comment)_
+- **Reporte**: _(link al documento en PDF donde se irá completando el reporte del proyecto)_
 
 ## Breve resumen
 
