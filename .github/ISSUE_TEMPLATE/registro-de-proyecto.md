@@ -1,6 +1,6 @@
 ---
-name: Registro de proyecto
-about: Para registrar un nuevo proyecto
+name: Cuban Digital Language Text Generate
+about: Dados los textos, escritos por cubanos, obtenidos de las distintas redes sociales y un tema en específico, generar comentarios que puedan mezclarse con comentarios del corpus  
 title: ""
 labels: En revisión
 assignees: ""
@@ -10,7 +10,7 @@ assignees: ""
 
 > Complete la siguiente información
 
-**Nombre:**: _(un nombre temporal para el proyecto, puede cambiar más adelante)_
+**Nombre:**: _Cuban Digital Language Text Generate_
 **Repositorio**: _(link del repositorio de Github)_
 **Reporte**: _(link al documento en PDF donde se irá completando el reporte del proyecto)_
 
@@ -18,17 +18,16 @@ assignees: ""
 
 > Este resumen (o uno ligeramente más amplio) debe aparecer también en el reporte linkeado arriba.
 
-_(Entre 100 y 200 palabras de resumen de la idea del proyecto, destacando el dominio de su aplicación, y las nociones generales de qué se podrá modelar, simular, programar, etc.)_
+Basado en un corpus de comentarios escrito por cubanos de las distintas redes sociales, se desea crear un generador de texto que pueda simular la escritura y lenguaje cubano. El resultado final se pretende incorporar a al trabajo final de Periodismo de Datos, de forma interactiva mezclando textos generados con textos del corpus relevantes sobre el tema prefijado. Sería interesante aprender del los resultado obtenidos en la interactividad del lector para refinar el modelo  
 
 ## Miembros del equipo
 
-- Nombre y Apellidos (@usuario GitHub)(@usuario Telegram)
-- Nombre y Apellidos (@usuario GitHub)(@usuario Telegram)
-- Nombre y Apellidos (@usuario GitHub)(@usuario Telegram)
+- Daniel Orlando Ortiz Pacheco (@danielorlando97 GitHub)(@DanielOOP Telegram)
+- Aldo Javier Veldecia Delgado (@Yulii01 GitHub)(@YulyG01 Telegram)
 
 ## Otras asignaturas o investigación en los que impacte el proyecto
 
-> Aquí se debe espcificar que profesores imparten o tutorean las otras asignaturas o investigaciones en los que se pueda beneficiar el proyecto.
+El proyecto tributa a la asignatura Periodismo de Datos impartida por el profe Yudivian Almeida   
 
 ## Aprobación
 
