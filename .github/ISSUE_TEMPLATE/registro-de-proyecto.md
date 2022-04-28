@@ -1,7 +1,7 @@
 ---
-name: Cuban Digital Language Text Generate
+name: Cuban Digital Language (Text Generator)
 about: Dados los textos, escritos por cubanos, obtenidos de las distintas redes sociales y un tema en específico, generar comentarios que puedan mezclarse con comentarios del corpus  
-title: ""
+title: "Generator of Cuban's Comment"
 labels: En revisión
 assignees: ""
 ---
