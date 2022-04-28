@@ -12,7 +12,7 @@ assignees: ""
 
 - **Nombre:**: _Cuban Digital Language Text Generate_
 - **Repositorio**: _[https://github.com/cuban-digital-language/generator-of-cubans-comment](https://github.com/cuban-digital-language/generator-of-cubans-comment)_
-- **Reporte**: _(link al documento en PDF donde se irá completando el reporte del proyecto)_
+- **Reporte**: _[https://github.com/cuban-digital-language/generator-of-cubans-comment/blob/main/README.md](https://github.com/cuban-digital-language/generator-of-cubans-comment)_
 
 ## Breve resumen
 
