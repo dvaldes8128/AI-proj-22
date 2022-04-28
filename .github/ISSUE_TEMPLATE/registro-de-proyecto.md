@@ -10,7 +10,7 @@ assignees: ""
 
 > Complete la siguiente información
 
-- **Nombre:**: _Cuban Digital Language Text Generate_
+- **Nombre:**: _Generator of Cuban's Comment_
 - **Repositorio**: _[https://github.com/cuban-digital-language/generator-of-cubans-comment](https://github.com/cuban-digital-language/generator-of-cubans-comment)_
 - **Reporte**: _[https://github.com/cuban-digital-language/generator-of-cubans-comment/blob/main/README.md](https://github.com/cuban-digital-language/generator-of-cubans-comment)_
 
