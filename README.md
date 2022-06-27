@@ -16,7 +16,8 @@ Una vez aprobado (o rechazado) el _issue_ será cerrado con la etiqueta adecuada
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 9:00-9:30   | Sheyla Cruz Castro Laura Brito Guerrero Ariel A. Huerta Martin | Laura Tamayo Blanco Yasmin Cisneros Cimadevila Jessy Gigato Izquierdo | Andy Sanchez Sierra Eduardo Moreira Gonzalez  Yadiel Felipe Medina |
 | 9:30-10:00  | Daniel Orlando Ortiz Pacheco Aldo Javier Veldecia Delgado Yan Carlos González Blanco Henry Estevez Gómez | Samuel David Suárez Rodríguez Enmanuel Verdesia Suárez Gabriel Fernando Martín Fernández | Amalia Ibarra Rodríguez Gabriela Martinez Giraldo Sandra Martos Llanes |
-| 10:00-10:30 | Claudia Olavarrieta Martínez  Marcos Valdivie Damian O'Hallorans Toledo | Reinaldo Barrera Travieso Juan Jose Lopez Martinez           | Olivia González Peña  Juan Carlos Casteleiro Wong            |
+| 10:00-10:30 | Claudia Olavarrieta Martínez  Marcos Valdivie 
+Damian O'Hallorans Toledo | Reinaldo Barrera Travieso Juan Jose Lopez Martinez           | Olivia González Peña  Juan Carlos Casteleiro Wong            |
 | 10:30-11:00 | Thalia Blanco Figueras Eziel Ramos Piñón Ariel Plasencia Díaz | David Guaty Domínguez  Rodrigo Daniel Pino Trueba Adrián Rodríguez Portales | Nadia González Fernández  José Alejandro Labourdette-Lartigue Soto |
 | 11:00-11:30 | Abel Antonio Cruz Suárez  José Carlos Hernández Piñera  Daniel Reynel Dominguez Ceballos | Luis Ernesto Ibarra Vázquez Luis Enrique Dalmau Coopat  Adrián Hernández Pérez | Juan Carlos Esquivel Lamis Yandy Sanchez Orosa               |
 | 11:30-12:00 | Javier Alejandro Campos Matanzas  Darian Dominguez Alayon    | Carmen Irene Cabrera Rodríguez  Enrique Martínez González  Osmany Pérez Rodríguez | Jorge Mederos Alvarado  Rodrigo Garcia Gomez                 |
